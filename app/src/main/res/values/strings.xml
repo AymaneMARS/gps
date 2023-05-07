@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gps</string>
+
+    <string name="my_map_api_key">AIzaSyAAAAfxYOvrxgyD7XLaa1pzgv1Hqe8pLQQ</string>
+</resources>
